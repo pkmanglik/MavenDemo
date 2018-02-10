@@ -1,6 +1,6 @@
 package com.manglik;
 
-public class ManglikApp 
+class TestManglikApp 
 {
 	public static void main (String[] arg)
 	{
