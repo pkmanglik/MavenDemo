@@ -5,7 +5,7 @@ public class MavenDemo
 
 	public String firstMavenDemo()
 	{
-		return "Maven Used as Build";
+		return "Maven Used as Build and Git as Repo";
 	}
 	
 }
